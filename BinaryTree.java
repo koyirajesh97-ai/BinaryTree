@@ -1,4 +1,5 @@
 class TNode {
+// todo: add unit test
     int data;
     TNode left, right;
     TNode(int d){ data = d; left = null; right = null; }
