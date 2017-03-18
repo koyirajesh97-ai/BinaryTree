@@ -6,6 +6,7 @@ class TNode {
 }
 
 public class BinaryTree {
+// ok
     TNode root;
 
     BinaryTree(int d){ root = new TNode(d); }
