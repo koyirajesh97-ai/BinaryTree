@@ -50,6 +50,7 @@ public class BinaryTree {
         System.out.print("postorder: ");
         tree.postorder(tree.root);
         System.out.println();
+        // minor fix
         // works as expected
     }
 }
