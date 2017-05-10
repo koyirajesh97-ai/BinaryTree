@@ -54,3 +54,4 @@ public class BinaryTree {
         // works as expected
     }
 }
+// works for integers only
