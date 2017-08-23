@@ -34,6 +34,7 @@ public class BinaryTree {
     }
 
     public static void main(String[] args){
+    // works fine for now
     // moved code around
         BinaryTree tree = new BinaryTree(1);
         tree.root.left = new TNode(2);
