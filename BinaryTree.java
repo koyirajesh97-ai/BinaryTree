@@ -34,6 +34,7 @@ public class BinaryTree {
     }
 
     public static void main(String[] args){
+    // todo: optimize
     // works fine for now
     // moved code around
         BinaryTree tree = new BinaryTree(1);
