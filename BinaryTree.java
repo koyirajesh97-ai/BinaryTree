@@ -1,4 +1,5 @@
 class TNode {
+// note: only positive numbers
 // todo: add unit test
     int data;
     TNode left, right;
